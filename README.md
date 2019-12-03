@@ -6,9 +6,8 @@
 ![platform](https://img.shields.io/badge/platform-debian%208%2C%209%2C%2010-brightgreen)
 
 ## What does the script do?
-- function 1
-- function 2
-- function 3
+- DDOS Protection
+- Whitelist- & Blacklist-System
 
 ## How to install?
 Go with ```cd``` to the root directory of your debian server and execute this command:
@@ -33,6 +32,11 @@ Anytime you want to start the script, you have to go to the root directory with 
 ### IMAGES SOON
 Generally you navigate in the "panel" by entering numbers. Sometimes it is possible to specify strings instead of digits.
 
+## Settings
+The settings can be changed in the panel under Settings. The following setting options are given:
+- Layout
+- automatic updates / manual update
+
 ## API
 These commands can be used as an interface:
 - ./easyFirewall.sh start - start the firewall
@@ -40,6 +44,9 @@ These commands can be used as an interface:
 - ./easyFirewall.sh status - show the current status of the firewall
 
 Important: The commands must always be executed in the root directory.
+
+## To-Do
+- Restore firewall status on startup
 
 ## Bugs and mistakes
 It always happens that mistakes are made and bugs occur. I ask you to point this out to me or if you want to even improve it. :)
