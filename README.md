@@ -1,5 +1,4 @@
 # easyFirewall
-### Author: easy (https://3asy.de)
 ![GitHub](https://img.shields.io/github/license/easy/easyFirewall)
 ![GitHub repo size](https://img.shields.io/github/repo-size/easy/easyFirewall)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/easy/easyFirewall)
@@ -46,8 +45,8 @@ These commands can be used as an interface:
 Important: The commands must always be executed in the root directory.
 
 ## To-Do
-- Restore firewall status on startup
+[] Restore firewall status on startup
+[] Upload the files lol 
 
 ## Bugs and mistakes
 It always happens that mistakes are made and bugs occur. I ask you to point this out to me or if you want to even improve it. :)
-https://3asy.de/#contact
