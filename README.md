@@ -45,7 +45,7 @@ These commands can be used as an interface:
 Important: The commands must always be executed in the root directory.
 
 ## To-Do
-[ ] Restore firewall status on startup
+- Restore firewall status on startup
 
 ## Bugs and mistakes
 It always happens that mistakes are made and bugs occur. I ask you to point this out to me or if you want to even improve it. :)
