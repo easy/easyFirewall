@@ -11,13 +11,13 @@
 ## How to install?
 Go with ```cd``` to the root directory of your debian server and execute this command:
 ```
-wget https://github.com/easy/easyFirewall/easyFirewall.sh && chmod +x easyFirewall.sh
+wget https://github.com/easy/easyFirewall/easyFirewall-Installer.sh && chmod +x easyFirewall-Installer.sh
 ```
 
 ## How do I execute the script?
-Anytime you want to start the script, you have to go to the root directory with ```cd``` and execute this command:
+Anytime you want to start the script you can use this command:
 ```
-./easyFirewall.sh
+easyFirewall
 ```
 
 ## First execution
@@ -38,9 +38,9 @@ The settings can be changed in the panel under Settings. The following setting o
 
 ## API
 These commands can be used as an interface:
-- ./easyFirewall.sh start - start the firewall
-- ./easyFirewall.sh stop - stop the firewall
-- ./easyFirewall.sh status - show the current status of the firewall
+- easyFirewall start - start the firewall
+- easyFirewall stop - stop the firewall
+- easyFirewall status - show the current status of the firewall
 
 Important: The commands must always be executed in the root directory.
 
